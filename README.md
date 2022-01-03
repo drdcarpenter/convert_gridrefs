@@ -8,4 +8,4 @@ This repo provides a script and an example data set of biological records, showi
 This achieved using the R packages 'rnrfa' and 'sf' by converting the Eastings and Nirthings for each grid reference into a Well Known Text (WKT) representation of the points.
 A webmap of these points can then be created.
 
-A blogpost describing this in more detaisl in on my website: [dan-carpenter.co.uk[](www.dan-carpenter.co.uk)
+A blogpost describing this in more detaisl in on my website: [dan-carpenter.co.uk](www.dan-carpenter.co.uk)
